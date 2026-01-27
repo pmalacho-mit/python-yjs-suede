@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/jupyter-server/jupyter_ydoc
+	branch = main
+	commit = e8e9bf664152253bc6e14ff1fafa82b668aec8f0
+	parent = c635b58b4b137b2a252c6e91925a1409a3a0648d
+	method = merge
+	cmdver = 0.4.9
