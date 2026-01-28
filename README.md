@@ -1,13 +1,13 @@
-# Python-ydoc-suede
+# Python-yjs-suede
 
-This repo is a [suede dependency](https://github.com/pmalacho-mit/suede). 
+This repo is a [suede dependency](https://github.com/pmalacho-mit/suede).
 
-To see the installable source code, please checkout the [release branch](https://github.com/pmalacho-mit/python-ydoc-suede/tree/release).
+To see the installable source code, please checkout the [release branch](https://github.com/pmalacho-mit/python-yjs-suede/tree/release).
 
 ## Installation
 
 ```bash
-bash <(curl https://suede.sh/install-release) --repo pmalacho-mit/python-ydoc-suede
+bash <(curl https://suede.sh/install-release) --repo pmalacho-mit/python-yjs-suede
 ```
 
 <details>
@@ -16,8 +16,7 @@ See alternative to using <a href="https://github.com/pmalacho-mit/suede#suedesh"
 </summary>
 
 ```bash
-bash <(curl https://raw.githubusercontent.com/pmalacho-mit/suede/refs/heads/main/scripts/install-release.sh) --repo pmalacho-mit/python-ydoc-suede
+bash <(curl https://raw.githubusercontent.com/pmalacho-mit/suede/refs/heads/main/scripts/install-release.sh) --repo pmalacho-mit/python-yjs-suede
 ```
 
 </details>
-
