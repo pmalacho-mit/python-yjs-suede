@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/pmalacho-mit/python-ydoc-suede
 	branch = release
-	commit = 6b2c6468937eacd27cf010860a29c3780b5fe701
-	parent = b8c95a63b1e70419b713677e64b5a69536983368
+	commit = f7ffbf0b962e694ae71644e948573bf22e002f61
+	parent = 2b009fc2cc5625c8c3eb7d2acc95f7032873de8c
 	method = merge
 	cmdver = 0.4.9
